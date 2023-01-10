@@ -1,4 +1,4 @@
-# configs for changing between dev. & prod.
+# configs for changing between dev. & prod..
 DEBUG = True
 # ALLOWED_HOSTS = ["127.0.0.1"]
 
