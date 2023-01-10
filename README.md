@@ -18,7 +18,7 @@ Features
 pip install light-django
 ```
 
-2. Create a new `light-django` project by running these commands below in your Terminal({name} is you project name):
+2. Create a new `light-django` project by running these commands below in your Terminal(`name` is your project name):
 ```bash
 light-django newproject {name}
 ```
