@@ -1,4 +1,4 @@
-# configs for changing between dev. & prod..
+# configs for changing between dev. & prod.
 DEBUG = True
 ALLOWED_HOSTS = ["127.0.0.1"]
 
@@ -6,5 +6,7 @@ ALLOWED_HOSTS = ["127.0.0.1"]
 LANGUAGE_CODE = "zh-hans"
 TIME_ZONE = "UTC+8"
 
-# WARNING: configs below should NOT be changed.
+# WARNING: configs below should NOT be changed
+#          unless you know what are you doing.
 ROOT_URLCONF = "urls"
+WIBSITE_DIR = "website"
