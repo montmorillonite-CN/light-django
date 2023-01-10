@@ -9,4 +9,4 @@ TIME_ZONE = "UTC+8"
 # WARNING: configs below should NOT be changed
 #          unless you know what are you doing.
 ROOT_URLCONF = "urls"
-WIBSITE_DIR = "website"
+__WIBSITE__ = "website"
