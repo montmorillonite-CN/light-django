@@ -13,11 +13,20 @@ Features
 
 ## Setup
 
-1. Install `light-django` by running `pip install light-django` in your Terminal.
+1. Install `light-django` by running these commands below in your Terminal:
+```bash
+pip install light-django
+```
 
-2. Create a new `light-django` project by running `light-django newproject {name}` in your Terminal.
+2. Create a new `light-django` project by running these commands below in your Terminal({name} is you project name):
+```bash
+light-django newproject {name}
+```
 
-3. Run `{name}\run.py`.
+3. Run `{name}\run.py` in your Terminal:
+```bash
+python {name}\run.py
+```
 
 Enjoy!
 
