@@ -6,9 +6,9 @@ _✨ A lighter and easier [django](https://www.djangoproject.com/) frame. ✨_
 <p align="center">
   <img src="https://img.shields.io/github/license/montmorillonite-CN/light-django" alt="license">
   <img src="https://img.shields.io/badge/python-3+-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/django-4.1.5+-red.svg" alt="NoneBot">
+  <img src="https://img.shields.io/badge/django-4.1.5-red.svg" alt="NoneBot">
   <a href="https://pypi.org/project/nonebot-plugin-petpet">
-    <img src="https://badgen.net/pypi/v/nonebot-plugin-petpet" alt="pypi">
+    <img src="https://badgen.net/pypi/v/light-django" alt="pypi">
   </a>
 </p>
 </div>
