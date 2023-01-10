@@ -1,6 +1,6 @@
 # configs for changing between dev. & prod..
 DEBUG = True
-# ALLOWED_HOSTS = ["127.0.0.1"]
+ALLOWED_HOSTS = ["127.0.0.1"]
 
 # locale configs, take `Chinese` as an example.
 LANGUAGE_CODE = "zh-hans"
