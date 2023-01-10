@@ -1,4 +1,4 @@
-from django.core.management import ManagementUtility
+from django.core.management import execute_from_command_line
 import os
 import sys
 
@@ -12,4 +12,4 @@ if len(argv) == 1:  # run directly
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'settings')
 
 # run
-ManagementUtility(argv).execute()
+execute_from_command_line(argv)
