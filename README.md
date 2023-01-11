@@ -1,16 +1,25 @@
-<div align="center"v>
+<div align="center">
 
 # light-django
 _✨ A lighter and easier [django](https://www.djangoproject.com/) frame. ✨_
-<p align="center"></p>
+
 <p align="center">
-  <a href="https://www.wtfpl.net/"><img src="https://img.shields.io/github/license/montmorillonite-CN/light-django" alt="license"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-4.1.5-red.svg" alt="django"></a>
-  <a href="https://pypi.org/project/light-django"><img src="https://badgen.net/pypi/v/light-django" alt="pypi"></a>
+  <a href="https://www.wtfpl.net/">
+    <img src="https://img.shields.io/github/license/montmorillonite-CN/light-django" alt="license">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python">
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/django-4.1.5-red.svg" alt="django">
+  </a>
+  <a href="https://pypi.org/project/light-django">
+    <img src="https://badgen.net/pypi/v/light-django" alt="pypi">
+  </a>
 </p>
 </div>
 
+A lighter and easier django frame.
 
 **Note: this is a work in progress.**
 
@@ -23,11 +32,11 @@ Features
 
 ## Setup
 
-1. Install `light-django` by running `pip install light-django` in your Terminal.
+1. Run `pip install light-django` to Install light-django.
 
-2. Create a new `light-django` project by running `light-django new {name}` in your Terminal.
+2. Run `python -m light-django new {name}` to create a new light-django project.
 
-3. Run `{name}\run.py`.
+3. Run `{name}\run.py` to run server.
 
 Enjoy!
 
