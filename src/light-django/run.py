@@ -9,7 +9,7 @@ if len(argv) == 1:  # run directly
     argv.append("runserver")
 
 # load settings
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "settings")
 
 # run
 execute_from_command_line(argv)
