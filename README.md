@@ -3,7 +3,7 @@
 # light-django
 _✨ A lighter and easier [django](https://www.djangoproject.com/) frame. ✨_
 
-<p align="center">
+<p align="center">  
   <a href="https://www.wtfpl.net/">
     <img src="https://img.shields.io/github/license/montmorillonite-CN/light-django" alt="license">
   </a>
@@ -42,5 +42,5 @@ Enjoy!
 
 ## TODO
 
-- [ ] Remove Herobrine
+- [ ] Remove Herobrine.
 - [ ] No, there isn't.
