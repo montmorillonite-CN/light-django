@@ -23,7 +23,7 @@ A lighter and easier django frame.
 
 **Note: this is a work in progress.**
 
-Features
+Features:
 
 - ✨ Out of box
 - ✨ Easy to use
