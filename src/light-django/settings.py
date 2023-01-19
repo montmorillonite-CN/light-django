@@ -3,11 +3,11 @@ DEBUG = True
 ALLOWED_HOSTS = ["*"]
 
 # secret_key, do NOT let others knows.
-SECRET_KEY = "1145141919810"
+SECRET_KEY = "4de65c187393c1e50d4c59deeff954f7"
 
 # locale configs, take `Chinese` as an example.
 LANGUAGE_CODE = "zh-hans"
-TIME_ZONE = "UTC"
+TIME_ZONE = "Asia/Shanghai"
 
 # WARNING: configs below should NOT be changed
 #          unless you know what are you doing.
